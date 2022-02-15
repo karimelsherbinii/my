@@ -223,7 +223,7 @@ class _MainPageState extends State<MainPage> {
                   side: BorderSide(color: kPrimaryColor)),
               onPressed: () {
                launchURL(
-                        "https://drive.google.com/file/d/1V_p3WBv6juhYrxDliE80zqdeJ1NcZGXi/view?usp=sharing");
+                        "https://drive.google.com/file/d/1onqhuEUQM9ZrXQHQ7auVMfraC0EuKxl4/view?usp=drivesdk");
               },
               child: Text(
                 "RESUME",
@@ -275,7 +275,7 @@ class _MainPageState extends State<MainPage> {
                       side: BorderSide(color: kPrimaryColor)),
                   onPressed: () {
                     launchURL(
-                        "https://drive.google.com/file/d/1V_p3WBv6juhYrxDliE80zqdeJ1NcZGXi/view?usp=sharing");
+                        "https://https://drive.google.com/file/d/1onqhuEUQM9ZrXQHQ7auVMfraC0EuKxl4/view?usp=drivesdk");
                   },
                   child: ListTile(
                     leading: Icon(
